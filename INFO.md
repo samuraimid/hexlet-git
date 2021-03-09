@@ -1,3 +1,3 @@
 git is awesome!
-new line
-exirement with amend
+I love Hexlet!
+add faster
